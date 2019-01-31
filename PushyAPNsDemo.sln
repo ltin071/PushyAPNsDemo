@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushyAPNsDemo.Android", "Pu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushyAPNsDemo.iOS", "PushyAPNsDemo\PushyAPNsDemo.iOS\PushyAPNsDemo.iOS.csproj", "{4909DD70-69AA-42A1-8750-8008126E4D3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushyAPNsDemo", "PushyAPNsDemo\PushyAPNsDemo\PushyAPNsDemo.csproj", "{1B565E10-89C8-4C6C-8348-6E778DBF0380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PushyAPNsDemo", "PushyAPNsDemo\PushyAPNsDemo\PushyAPNsDemo.csproj", "{1B565E10-89C8-4C6C-8348-6E778DBF0380}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
