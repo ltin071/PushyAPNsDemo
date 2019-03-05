@@ -24,3 +24,6 @@ Content-type application/json
 
 1. Make sure you open it in VS2017 and run the iOS part
 2. No testing can be done on APNs without PushyAPNsDemoWebAPI project, please test with that project.
+
+
+<a href="https://www.buymeacoffee.com/NfEl4Lv" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
